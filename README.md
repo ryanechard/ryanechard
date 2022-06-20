@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Echard
 - 👀 I’m interested in developing software that empowers others.
-- 🌱 I’m currently learning CSS/SASS & JS
+- 🌱 I’m currently learning TypeScript & React
 - 💞️ I’m looking to collaborate on pretty much anything
 - 📫 How to reach me: Rtrefive@gmail.com
 
